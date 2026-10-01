@@ -381,4 +381,4 @@ Visiting a protected route while logged out redirects to `/login`, and after log
 
 ## Author
 
-Built by [Your Name](https://github.com/<your-username>)
+Built by [Jay Prajapati](https://github.com/Jay-Prajapati05)
